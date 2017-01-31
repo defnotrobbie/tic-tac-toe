@@ -3,5 +3,5 @@ This is a fork of Facebook's React tic tac toe tutorial. I've added some bonus f
 
 ## TODO
 * Check for cat's game
-* Restart game
+* Restart game function
 * Score board
